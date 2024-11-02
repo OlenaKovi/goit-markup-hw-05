@@ -683,6 +683,7 @@ border: 1px solid rgba(46, 47, 66, 0.4);
   justify-content: center;
   align-items: center;
   margin-right: 8px;
+  fill: transparent;
 }
 .modal-checkbox-input:checked + .modal-checkbox-label span {
  background-color: #404bbf;

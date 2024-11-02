@@ -670,9 +670,7 @@ border: 1px solid rgba(46, 47, 66, 0.4);
   line-height: 1.17;
   letter-spacing: 0.04em;
   color:#8e8f99;
-  display: flex;
-  align-items: center;
-}
+ }
 .modal-span{
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 2px;
@@ -691,7 +689,7 @@ border: 1px solid rgba(46, 47, 66, 0.4);
   fill: #F4F4FD;
 }
 .checkbox-link {
-
+color: #4d5ae5;
 }
 .modal-btn {
   font-weight: 500;
